@@ -21,3 +21,4 @@ console.log(a + Number(c));
 //console.log(a / b);
 
 //console.log(c * b);
+
